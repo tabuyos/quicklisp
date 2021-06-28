@@ -15,3 +15,9 @@
 *.sx32fsl
 *.wx64fsl
 *.wx32fsl
+
+
+# user's ignore
+tmp/
+temp/
+*.tgz
